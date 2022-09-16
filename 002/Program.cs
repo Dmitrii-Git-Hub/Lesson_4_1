@@ -15,3 +15,8 @@ if (max < i)
 {
     Console.WriteLine(i + " большее число, " + max + " меньшее число.");
 }
+
+if (max == i)
+{
+    Console.WriteLine(i + ", " + max + " числа одинаковые.");
+}
